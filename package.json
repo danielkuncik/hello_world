@@ -1,0 +1,14 @@
+{
+  "name": "hello_world_app",
+  "version": "1.0.0",
+  "description": "Testing I can make a node web app on my chromebook.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniel Kuncik",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
